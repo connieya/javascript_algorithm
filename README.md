@@ -6,6 +6,7 @@
 |:-----|:-----------------------------------------------------------------------------|:----------------------------------------------|:-----------------------------------
 | Lv.1 | [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)        | 중복 원소 제거 => filter 키워드                        | [코드](programmers/level1/같은숫자.md)   |
 | Lv.1 | [[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)        |                                               | [코드](programmers/level1/비밀지도.md)   |
+| Lv.1 | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)          |                                               | [코드](programmers/level1/키패드.md)    |
 | Lv.1 | [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)        | 정규식 연습하기                                      | [코드](programmers/level1/신규.md)     |
 | Lv.1 | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | 배열 lookup 테이블 활용 ,filter 활용                   | [코드](programmers/level1/로또.md)     |
 | Lv.1 | [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)      | split , join 키워드 , isNaN , object 활용 , 숫자 정규식 | [코드](programmers/level1/숫자문자열.md)  |
