@@ -12,7 +12,7 @@
 | Lv.1 | [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)        | 배열의 포함 여부 => includes , reduce 키워드            | [코드](programmers/level1/없는숫자.md)   |
 | Lv.1 | [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)           | swap 코드 구현, forEach, Math.max                 | [코드](programmers/level1/최소직사각형.md) |
 | Lv.1 | [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)         | 배열 중복 제거, hash => Set(),Map()                 | [코드](programmers/level1/신고결과받기.md) |
-| Lv.1 | [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)         | 배열 중복 제거, hash => Set(),Map()                 | [코드](programmers/level1/신고결과받기.md) |
+| Lv.1 | [성격 유형 검사하기](https://programmers.co.kr/learn/courses/30/lessons/118666)      | 구현, Map , split                               | [코드](programmers/level1/성격유형.md)   |
 | Lv.2 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)           | 문자열 압축  , slice 키워드                           | [코드](programmers/level2/문자열압축.md)  |
 
 
