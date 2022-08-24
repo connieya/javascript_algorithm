@@ -30,6 +30,7 @@
 | Lv.2 | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)            | DFS                                           | [코드](programmers/level2/타겟넘버.md)    |
 | Lv.2 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)           | 문자열 압축  , slice 키워드                           | [코드](programmers/level2/문자열압축.md)   |
 | Lv.2 | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)          | 최대 공약수                                        | [코드](programmers/level2/멀쩡한사각형.md)  |
+| Lv.2 | [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)           | Object 로 hash map , Object.keys               | [코드](programmers/level2/메뉴리뉴얼.md)   |
 | Lv.2 | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)      | 행렬 회전하기 구현                                    | [코드](programmers/level2/행렬회전.md)    |
 
 
