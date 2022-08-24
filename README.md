@@ -10,7 +10,8 @@
 | Lv.1 | [[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)        |                                               | [코드](programmers/level1/비밀지도.md)   |
 | Lv.1 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)       | hash,  new Map                                | [코드](programmers/level1/완주하지못한.md) |
 | Lv.1 | [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)            | map , slice                                   | [코드](programmers/level1/K번째.md)    |
-| Lv.1 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)             |                    | [코드](programmers/level1/모의고사.md)   |
+| Lv.1 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)             | forEach , 나머지 연산                              | [코드](programmers/level1/모의고사.md)   |
+| Lv.1 | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)              | 그리디                                           | [코드](programmers/level1/체육복.md)    |
 | Lv.1 | [크레인 인형 뽑기](https://programmers.co.kr/learn/courses/30/lessons/64061)        | stack 사용 , 구현                                 | [코드](programmers/level1/크레인.md)    |
 | Lv.1 | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)          | 구현                                            | [코드](programmers/level1/키패드.md)    |
 | Lv.1 | [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)               | 구현                                            | [코드](programmers/level1/내적.md)     |
@@ -25,6 +26,7 @@
 | Lv.2 | [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)           | 스택 대신 정수 사용                                   | [코드](programmers/level2/올바른괄호.md)  |
 | Lv.2 | [기능 개발](https://programmers.co.kr/learn/courses/30/lessons/42586)            | parseInt , map                                | [코드](programmers/level2/기능개발.md)   |
 | Lv.2 | [오픈 채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)           | map ,forEach , mapping 하기                     | [코드](programmers/level2/오픈채팅방.md)  |
+| Lv.2 | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)            | DFS                                           | [코드](programmers/level2/타겟넘버.md)   |
 | Lv.2 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)           | 문자열 압축  , slice 키워드                           | [코드](programmers/level2/문자열압축.md)  |
 | Lv.2 | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)          | 최대 공약수                                        | [코드](programmers/level2/멀쩡한사각형.md) |
 
