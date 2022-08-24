@@ -10,6 +10,7 @@
 | Lv.1 | [[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)        |                                               | [코드](programmers/level1/비밀지도.md)   |
 | Lv.1 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)       | hash,  new Map                                | [코드](programmers/level1/완주하지못한.md) |
 | Lv.1 | [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)            | map , slice                                   | [코드](programmers/level1/K번째.md)    |
+| Lv.1 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)             |                    | [코드](programmers/level1/모의고사.md)   |
 | Lv.1 | [크레인 인형 뽑기](https://programmers.co.kr/learn/courses/30/lessons/64061)        | stack 사용 , 구현                                 | [코드](programmers/level1/크레인.md)    |
 | Lv.1 | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)          | 구현                                            | [코드](programmers/level1/키패드.md)    |
 | Lv.1 | [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)               | 구현                                            | [코드](programmers/level1/내적.md)     |
