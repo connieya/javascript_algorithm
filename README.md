@@ -35,6 +35,7 @@
 | Lv.2 | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)          | 최대 공약수                                        | [코드](programmers/level2/멀쩡한사각형.md)  |
 | Lv.2 | [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)           | Object 로 hash map , Object.keys               | [코드](programmers/level2/메뉴리뉴얼.md)   |
 | Lv.2 | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)      | 행렬 회전하기 구현                                    | [코드](programmers/level2/행렬회전.md)    |
+| Lv.2 | [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)        | 2차원 배열 만드는 법                                  | [코드](programmers/level2/거리두기.md)    |
 
 
 ## ✨ BOJ
