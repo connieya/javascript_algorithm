@@ -12,6 +12,7 @@
 | Lv.1 | [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)            | map , slice                                   | [코드](programmers/level1/K번째.md)     |
 | Lv.1 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)             | forEach , 나머지 연산                              | [코드](programmers/level1/모의고사.md)    |
 | Lv.1 | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)              | 그리디                                           | [코드](programmers/level1/체육복.md)     |
+| Lv.1 | [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)              | 정렬 ,new Array , fill , 배열 채우기                 | [코드](programmers/level1/실패율.md)     |
 | Lv.1 | [크레인 인형 뽑기](https://programmers.co.kr/learn/courses/30/lessons/64061)        | stack 사용 , 구현                                 | [코드](programmers/level1/크레인.md)     |
 | Lv.1 | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)          | 구현                                            | [코드](programmers/level1/키패드.md)     |
 | Lv.1 | [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)               | 구현                                            | [코드](programmers/level1/내적.md)      |
@@ -29,6 +30,7 @@
 | Lv.2 | [오픈 채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)           | map ,forEach , mapping 하기                     | [코드](programmers/level2/오픈채팅방.md)   |
 | Lv.2 | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)            | DFS                                           | [코드](programmers/level2/타겟넘버.md)    |
 | Lv.2 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)           | 문자열 압축  , slice 키워드                           | [코드](programmers/level2/문자열압축.md)   |
+| Lv.2 | [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)            | slice , map                                   | [코드](programmers/level2/괄호변환.md)    |
 | Lv.2 | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)          | 최대 공약수                                        | [코드](programmers/level2/멀쩡한사각형.md)  |
 | Lv.2 | [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)           | Object 로 hash map , Object.keys               | [코드](programmers/level2/메뉴리뉴얼.md)   |
 | Lv.2 | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)      | 행렬 회전하기 구현                                    | [코드](programmers/level2/행렬회전.md)    |
