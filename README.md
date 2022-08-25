@@ -15,10 +15,12 @@
 | Lv.1 | [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)              | 정렬 ,new Array , fill , 배열 채우기                 | [코드](programmers/level1/실패율.md)     |
 | Lv.1 | [크레인 인형 뽑기](https://programmers.co.kr/learn/courses/30/lessons/64061)        | stack 사용 , 구현                                 | [코드](programmers/level1/크레인.md)     |
 | Lv.1 | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)          | 구현                                            | [코드](programmers/level1/키패드.md)     |
+| Lv.1 | [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)          | 수학 ,구현                                        | [코드](programmers/level1/3진법.md)     |
 | Lv.1 | [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)               | 구현                                            | [코드](programmers/level1/내적.md)      |
 | Lv.1 | [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)        | 정규식 연습하기                                      | [코드](programmers/level1/신규.md)      |
 | Lv.1 | [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)           | reduce , forEach                              | [코드](programmers/level1/음양.md)      |
 | Lv.1 | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | 배열 lookup 테이블 활용 ,filter 활용                   | [코드](programmers/level1/로또.md)      |
+| Lv.1 | [약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)       | 수학,구현                                         | [코드](programmers/level1/약수의개수.md)   |
 | Lv.1 | [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)      | split , join 키워드 , isNaN , object 활용 , 숫자 정규식 | [코드](programmers/level1/숫자문자열.md)   |
 | Lv.1 | [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)        | 배열의 포함 여부 => includes , reduce 키워드            | [코드](programmers/level1/없는숫자.md)    |
 | Lv.1 | [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)           | swap 코드 구현, forEach, Math.max                 | [코드](programmers/level1/최소직사각형.md)  |
@@ -37,11 +39,12 @@
 | Lv.2 | [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)           | Object 로 hash map , Object.keys               | [코드](programmers/level2/메뉴리뉴얼.md)   |
 | Lv.2 | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)      | 행렬 회전하기 구현                                    | [코드](programmers/level2/행렬회전.md)    |
 | Lv.2 | [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)        | 2차원 배열 만드는 법                                  | [코드](programmers/level2/거리두기.md)    |
+| Lv.2 | [빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052)        | 3차원 배열   , queue                              | [코드](programmers/level2/빛의경로.md)    |
 
 
 ## ✨ BOJ
 
-|번호|문제 이름| 난이도       | 코멘트 | 코드|
-|:---|:----|:----------|:---|:-----
-| 1000  |  [A+B](https://www.acmicpc.net/problem/1000)   | 🥉  브론즈 5 |  입출력  | [코드](BOJ/bronze5/1000.md)
-| 17086 | [아기상어2](https://www.acmicpc.net/problem/17086) |  실버  2    |  BFS  | [코드](BOJ/silver2/17086.md)
+|번호|문제 이름| 난이도       | 코멘트   | 코드|
+|:---|:----|:----------|:------|:-----
+| 1000  |  [A+B](https://www.acmicpc.net/problem/1000)   | 🥉  브론즈 5 | 입출력   | [코드](BOJ/bronze5/1000.md)
+| 17086 | [아기상어2](https://www.acmicpc.net/problem/17086) |  실버  2    | BFS   | [코드](BOJ/silver2/17086.md)
