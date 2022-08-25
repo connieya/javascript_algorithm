@@ -26,6 +26,7 @@
 | Lv.1 | [성격 유형 검사하기](https://programmers.co.kr/learn/courses/30/lessons/118666)      | 구현, Map , split                               | [코드](programmers/level1/성격유형.md)    |
 | Lv.2 | [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)           | 스택 대신 정수 사용                                   | [코드](programmers/level2/올바른괄호.md)   |
 | Lv.2 | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)         | 스택                                            | [코드](programmers/level2/짝지어제거하기.md) |
+| Lv.2 | [[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)    | 소문자 변환 toLowerCase() , 정규식 match, new Set     | [코드](programmers/level2/뉴스.md)      |
 | Lv.2 | [기능 개발](https://programmers.co.kr/learn/courses/30/lessons/42586)            | parseInt , map                                | [코드](programmers/level2/기능개발.md)    |
 | Lv.2 | [오픈 채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)           | map ,forEach , mapping 하기                     | [코드](programmers/level2/오픈채팅방.md)   |
 | Lv.2 | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)            | DFS                                           | [코드](programmers/level2/타겟넘버.md)    |
