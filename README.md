@@ -7,6 +7,7 @@
 | Lv.1 | [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)               | new Set 키워드                                   | [코드](programmers/level1/폰켓몬.md)     |
 | Lv.1 | [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)        | 중복 원소 제거 => filter 키워드                        | [코드](programmers/level1/같은숫자.md)    |
 | Lv.1 | [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)           | 소수 만들기                                        | [코드](programmers/level1/소수만들기.md)   |
+| Lv.1 | [예산](https://programmers.co.kr/learn/courses/30/lessons/12982)               | 정렬                                            | [코드](programmers/level1/예산.md)      |
 | Lv.1 | [[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)        |                                               | [코드](programmers/level1/비밀지도.md)    |
 | Lv.1 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)       | hash,  new Map                                | [코드](programmers/level1/완주하지못한.md)  |
 | Lv.1 | [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)            | map , slice                                   | [코드](programmers/level1/K번째.md)     |
