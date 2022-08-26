@@ -27,8 +27,10 @@
 | Lv.1 | [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)           | swap 코드 구현, forEach, Math.max                 | [코드](programmers/level1/최소직사각형.md)  |
 | Lv.1 | [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)         | 배열 중복 제거, hash => Set(),Map()                 | [코드](programmers/level1/신고결과받기.md)  |
 | Lv.1 | [성격 유형 검사하기](https://programmers.co.kr/learn/courses/30/lessons/118666)      | 구현, Map , split                               | [코드](programmers/level1/성격유형.md)    |
+| Lv.2 | [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)         | BFS , 2차원 배열 선언                               | [코드](programmers/level2/게임맵.md)     |
 | Lv.2 | [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)           | 스택 대신 정수 사용                                   | [코드](programmers/level2/올바른괄호.md)   |
 | Lv.2 | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)         | 스택                                            | [코드](programmers/level2/짝지어제거하기.md) |
+| Lv.2 | [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)           | Math.ceil 사용하기                                | [코드](programmers/level2/예상대진표.md)   |
 | Lv.2 | [[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)    | 소문자 변환 toLowerCase() , 정규식 match, new Set     | [코드](programmers/level2/뉴스.md)      |
 | Lv.2 | [기능 개발](https://programmers.co.kr/learn/courses/30/lessons/42586)            | parseInt , map                                | [코드](programmers/level2/기능개발.md)    |
 | Lv.2 | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)              | 큐 , some 함수                                   | [코드](programmers/level2/프린터.md)     |
