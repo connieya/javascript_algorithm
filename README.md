@@ -32,6 +32,9 @@
 | Lv.2 | [[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)    | 소문자 변환 toLowerCase() , 정규식 match, new Set     | [코드](programmers/level2/뉴스.md)      |
 | Lv.2 | [기능 개발](https://programmers.co.kr/learn/courses/30/lessons/42586)            | parseInt , map                                | [코드](programmers/level2/기능개발.md)    |
 | Lv.2 | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)              | 큐 , some 함수                                   | [코드](programmers/level2/프린터.md)     |
+| Lv.2 | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)           | 정렬하기                                          | [코드](programmers/level2/가장큰수.md)    |
+| Lv.2 | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)            | DFS , 배열 초기화 ,hash map Object 구현              | [코드](programmers/level2/소수찾기.md)    |
+| Lv.2 | [조이 스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)            | 그리디                                           | [코드](programmers/level2/조이스틱.md)    |
 | Lv.2 | [오픈 채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)           | map ,forEach , mapping 하기                     | [코드](programmers/level2/오픈채팅방.md)   |
 | Lv.2 | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)            | DFS                                           | [코드](programmers/level2/타겟넘버.md)    |
 | Lv.2 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)           | 문자열 압축  , slice 키워드                           | [코드](programmers/level2/문자열압축.md)   |
