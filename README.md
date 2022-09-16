@@ -48,6 +48,7 @@
 | Lv.2 | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)      | 행렬 회전하기 구현                                    | [코드](programmers/level2/행렬회전.md)    |
 | Lv.2 | [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)        | 2차원 배열 만드는 법                                  | [코드](programmers/level2/거리두기.md)    |
 | Lv.2 | [빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052)        | 3차원 배열   , queue                              | [코드](programmers/level2/빛의경로.md)    |
+| Lv.2 | [전력망 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971)       | 인접리스트 그래프 만들기, 트리 자식 노드 개수 , DFS              | [코드](programmers/level2/전력망.md)     |
 
 
 ## ✨ BOJ
