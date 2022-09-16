@@ -6,6 +6,7 @@
 |:-----|:-----------------------------------------------------------------------------|:----------------------------------------------|:------------------------------------
 | Lv.1 | [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)               | new Set 키워드                                   | [코드](programmers/level1/폰켓몬.md)     |
 | Lv.1 | [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)        | 중복 원소 제거 => filter 키워드                        | [코드](programmers/level1/같은숫자.md)    |
+| Lv.1 | [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932)  | toString , split() , reverse  , parseInt 키워드  | [코드](programmers/level1/자연수뒤집어.md)  |
 | Lv.1 | [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)           | 소수 만들기                                        | [코드](programmers/level1/소수만들기.md)   |
 | Lv.1 | [예산](https://programmers.co.kr/learn/courses/30/lessons/12982)               | 정렬                                            | [코드](programmers/level1/예산.md)      |
 | Lv.1 | [[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)        |                                               | [코드](programmers/level1/비밀지도.md)    |
@@ -47,6 +48,7 @@
 | Lv.2 | [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)            | hash 맵 배열 , 이분 탐색                             | [코드](programmers/level2/순위검색.md)    |
 | Lv.2 | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)      | 행렬 회전하기 구현                                    | [코드](programmers/level2/행렬회전.md)    |
 | Lv.2 | [거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)        | 2차원 배열 만드는 법                                  | [코드](programmers/level2/거리두기.md)    |
+| Lv.2 | [모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512)            | 모음사전                                          | [코드](programmers/level2/모음사전.md)    |
 | Lv.2 | [빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052)        | 3차원 배열   , queue                              | [코드](programmers/level2/빛의경로.md)    |
 | Lv.2 | [전력망 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971)       | 인접리스트 그래프 만들기, 트리 자식 노드 개수 , DFS              | [코드](programmers/level2/전력망.md)     |
 
