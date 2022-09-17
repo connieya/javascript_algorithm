@@ -33,6 +33,7 @@
 | Lv.2 | [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)            | 스택 대신 정수 사용                                   | [코드](programmers/level2/올바른괄호.md)     |
 | Lv.2 | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | split , map , charAt , toUpperCase , join     | [코드](programmers/level2/JadenCase.md) |
 | Lv.2 | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)          | 스택                                            | [코드](programmers/level2/짝지어제거하기.md)   |
+| Lv.2 | [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)           | object , chatAt                               | [코드](programmers/level2/영어끝말잇기.md)    |
 | Lv.2 | [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)            | Math.ceil 사용하기                                | [코드](programmers/level2/예상대진표.md)     |
 | Lv.2 | [[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)     | 소문자 변환 toLowerCase() , 정규식 match, new Set     | [코드](programmers/level2/뉴스.md)        |
 | Lv.2 | [기능 개발](https://programmers.co.kr/learn/courses/30/lessons/42586)             | parseInt , map                                | [코드](programmers/level2/기능개발.md)      |
